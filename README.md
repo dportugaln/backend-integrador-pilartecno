@@ -33,7 +33,7 @@ Aquí están los métodos y rutas disponibles:
 - `PATCH /places/:id`: Modifica un punto de interés existente
 - `DELETE /places/:id`: Elimina un punto de interés
 
-## Frontend
+# Frontend
 
 El frontend de esta aplicación se ha desarrollado utilizando React.
 El código fuente del frontend se encuentra en un repositorio separado. Puedes acceder a este repositorio en el siguiente enlace: [Frontend Integrador Pilartecno.](https://github.com/dportugaln/frontend-integrador-pilartecno)
